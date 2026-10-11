@@ -1,0 +1,8 @@
+CFO Partners website production package
+Version: v23
+Default language: English
+Contact endpoint: contact_v23.php
+SMTP host: smtp.jdm.pl
+Duplicate protection: single submit handler + client submit lock
+PHP mail fallback: disabled
+Generated: 2026-06-14

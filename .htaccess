@@ -1,0 +1,6 @@
+# CFO Partners static homepage v23
+DirectoryIndex index.html index.php
+
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+</IfModule>
